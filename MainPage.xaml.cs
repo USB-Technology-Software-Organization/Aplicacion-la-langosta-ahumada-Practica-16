@@ -6,7 +6,7 @@ public partial class MainPage : ContentPage
 
     /// <summary>
     /// <Createdate>08/07/2023</Createdate>
-    /// <Company>SandBox</Company>
+    /// <Company>USB Technology</Company>
     /// <Lastmodificationdate>08/07/2023</Lastmodificationdate>
     /// <Lastmodificationdescription>Se agrego un If el cual verificara si los datos introducidos son nulos o si los entry estan vacios</Lastmodificationdescription>
     /// <Lastmodificationautor>Lorena Vazquez</Lastmodificationautor>
